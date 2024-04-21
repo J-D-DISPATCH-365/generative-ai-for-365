@@ -1,5 +1,6 @@
 // Adopting the default GitHub codespaces-jupyter template as starter
 // https://github.com/github/codespaces-jupyter
+// Commit to devcontainer 
 {
 	"name": "Generative AI For Beginners",
 	"image": "mcr.microsoft.com/devcontainers/universal:2",
